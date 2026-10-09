@@ -1,10 +1,10 @@
 {
   "servers": [
     {
-      "Title": "VANILA",
-      "GameVersion": "1.0.12",
-      "ServerIP": "45.138.174.17",
-      "ServerPort": 16800,
+      "Title": "Sever #1",
+      "GameVersion": "1.0.17",
+      "ServerIP": "0.0.0.1",
+      "ServerPort": 2456,
       "Password": "",
       "IconUrl": "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
       "Modpacks": {
@@ -14,17 +14,45 @@
         }
       }
     },
-    {
-      "Title": "CIVILIZATION",
-      "GameVersion": "1.0.12",
-      "ServerIP": "45.11.16.76",
-      "ServerPort": 7516,
+	{
+      "Title": "Sever #2",
+      "GameVersion": "1.0.17",
+      "ServerIP": "0.0.0.2",
+      "ServerPort": 2456,
       "Password": "",
-      "IconUrl": "",
+      "IconUrl": "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
       "Modpacks": {
         "Default": {
-          "Version": "09.10.2026",
-          "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v8/civilization-client.zip"
+          "Version": "07.10.2026-09:00-v4",
+          "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v4/vanila-client.zip"
+        }
+      }
+    },
+	{
+      "Title": "Sever #3",
+      "GameVersion": "1.0.17",
+      "ServerIP": "0.0.0.3",
+      "ServerPort": 2456,
+      "Password": "",
+      "IconUrl": "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
+      "Modpacks": {
+        "Default": {
+          "Version": "07.10.2026-09:00-v4",
+          "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v4/vanila-client.zip"
+        }
+      }
+    },
+	{
+      "Title": "Sever #4",
+      "GameVersion": "1.0.17",
+      "ServerIP": "0.0.0.4",
+      "ServerPort": 2456,
+      "Password": "",
+      "IconUrl": "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
+      "Modpacks": {
+        "Default": {
+          "Version": "07.10.2026-09:00-v4",
+          "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v4/vanila-client.zip"
         }
       }
     }

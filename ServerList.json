@@ -1,0 +1,32 @@
+{
+  "servers": [
+    {
+      "Title": "VANILA",
+      "GameVersion": "1.0.12",
+      "ServerIP": "45.138.174.17",
+      "ServerPort": 16800,
+      "Password": "",
+      "IconUrl": "https://raw.githubusercontent.com/Cursed228/valheim-test/main/server-icon.png",
+      "Modpacks": {
+        "Default": {
+          "Version": "07.10.2026-09:00-v4",
+          "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v4/vanila-client.zip"
+        }
+      }
+    },
+    {
+      "Title": "CIVILIZATION",
+      "GameVersion": "1.0.12",
+      "ServerIP": "45.11.16.76",
+      "ServerPort": 7516,
+      "Password": "",
+      "IconUrl": "",
+      "Modpacks": {
+        "Default": {
+          "Version": "09.10.2026",
+          "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v8/civilization-client.zip"
+        }
+      }
+    }
+  ]
+}

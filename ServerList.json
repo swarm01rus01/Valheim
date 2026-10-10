@@ -1,9 +1,9 @@
 {
   "servers": [
     {
-      "Title": "Sever #1",
+      "Title": "Echo of Time PVE",
       "Group": "Echo of Time",
-      "GameVersion": "1.0.17",
+      "GameVersion": "45.136.204.166",
       "ServerIP": "0.0.0.1",
       "ServerPort": 2456,
       "Password": "",
@@ -11,7 +11,7 @@
       "Modpacks": {
         "Default": {
           "Version": "07.10.2026-09:00-v4",
-          "ContentUrl": "https://github.com/Cursed228/valheim-test/releases/download/v4/vanila-client.zip"
+          "ContentUrl": "https://www.dropbox.com/scl/fi/ew1qznt7law10cnfphhhn/vanila-client.zip?rlkey=s96ccnqhsgymw898qfs8jmjua&st=6x19anl9&dl=1"
         }
       }
     }

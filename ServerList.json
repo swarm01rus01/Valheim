@@ -3,8 +3,8 @@
     {
       "Title": "Echo of Time PVE",
       "Group": "Echo of Time",
-      "GameVersion": "45.136.204.166",
-      "ServerIP": "0.0.0.1",
+      "GameVersion": "1.0.17",
+      "ServerIP": "45.136.204.166",
       "ServerPort": 2456,
       "Password": "",
       "IconUrl": "https://raw.githubusercontent.com/swarm01rus01/Valheim/main/ServerLogo/EchoofTime.png",
